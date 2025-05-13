@@ -18,8 +18,6 @@ Welcome to Brainwave! A visually stunning, responsive landing page for an AI app
 
 In an era where AI tools can quickly generate basic websites, I wanted to demonstrate skills that go beyond what automation can produce. The goal was to create a modern, eye-catching landing page for an AI application that would stand out from competitors' outdated designs.
 
-The website showcases the application's features while providing a premium user experience through animations, responsive design, and visual appeal.
-
 The project showcases advanced front-end development techniques that elevate it beyond what AI tools can generate, including custom animations, responsive layouts, and modern design patterns.
 
 **Technologies Used:** React, Vite, Tailwind CSS
